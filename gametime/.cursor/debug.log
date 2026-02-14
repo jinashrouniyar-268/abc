@@ -1,0 +1,8 @@
+{"location": "ai_agent_runner.py:run_agent", "message": "after tool.invoke", "data": {"tool_name": "generate_music_and_add_to_timeline_tool"}, "hypothesisId": "H3", "timestamp": 1771069157.6992238}
+{"location": "ai_agent_runner.py:run_agent", "message": "before llm.invoke", "data": {"iteration": 3}, "hypothesisId": "H5", "timestamp": 1771069157.6994536}
+{"location": "ai_agent_runner.py:run_agent", "message": "after llm.invoke", "data": {"iteration": 3}, "hypothesisId": "H5", "timestamp": 1771069159.198528}
+{"location": "ai_agent_runner.py:run_agent", "message": "after tool.invoke", "data": {"tool_name": "invoke_music_agent"}, "hypothesisId": "H3", "timestamp": 1771069159.1993797}
+{"location": "ai_agent_runner.py:run_agent", "message": "before llm.invoke", "data": {"iteration": 1}, "hypothesisId": "H5", "timestamp": 1771069159.1996098}
+{"location": "ai_agent_runner.py:run_agent", "message": "after llm.invoke", "data": {"iteration": 1}, "hypothesisId": "H5", "timestamp": 1771069160.7485669}
+{"location": "ai_chat_functionality.py:_generate_response", "message": "after run_agent join", "data": {"has_result": true}, "hypothesisId": "H5", "timestamp": 1771069160.7491713}
+{"location": "ai_chat_functionality.py:send_message", "message": "send_message returning", "data": {"response_len": 174}, "hypothesisId": "H2", "timestamp": 1771069160.7493145}
